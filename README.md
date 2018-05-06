@@ -31,6 +31,6 @@ allprojects {
 And Add the dependency:
 ```
 dependencies {
-	        implementation 'com.github.ChathuminaVimukthi:CalendarX-Android:0.1.0'
+	        implementation 'com.github.ChathuminaVimukthi:CalendarX-Android:0.2.0'
 	}
 ```
